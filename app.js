@@ -11,5 +11,6 @@ app.get("/",getAllTodos)
 app.get("/todos/:id",getTodoById)
 app.get("/todos",getTodoByQuery);
 app.post("/",addNewTodo)
+// test
 
 app.listen(3004,()=>console.log("http://localhost:3004"))

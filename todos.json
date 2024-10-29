@@ -1,0 +1,27 @@
+[
+    {
+        "id": "5c6b0d29-2f29-47dd-8abe-c5999de8a862",
+        "title": "ReviewProject",
+        "description": "Go through the code and ensure best practices."
+    },
+    {
+        "id": 1,
+        "title": "Learn TypeScript",
+        "description": "Complete the TypeScript and Javascript basics tutorial."
+    },
+    {
+        "id": 2,
+        "title": "Build Todo App",
+        "description": "Develop a todo app to practice TypeScript with React."
+    },
+    {
+        "id": 3,
+        "title": "Write Documentation",
+        "description": "Document the project setup and code structure."
+    },
+    {
+        "id": 4,
+        "title": "Review Project",
+        "description": "Go through the code and ensure best practices."
+    }
+]
